@@ -1,5 +1,5 @@
 # A discord bot that queries questions from stackoverflow and gives back top 5 answers matching your query.
-# Built in collaboration with @sassycular
+# Built in collaboration with the dashing, awesome, spectacular @sassycular
 # Programmed for Strawhats DAO by @krypto-kiddo
 
 import discord
