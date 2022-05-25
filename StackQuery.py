@@ -1,3 +1,6 @@
+# A discord bot that queries questions from stackoverflow and gives back top 5 answers matching your query.
+# Built in collaboration with @sassycular
+
 import discord
 import os
 import requests
