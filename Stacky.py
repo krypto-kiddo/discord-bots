@@ -1,5 +1,4 @@
-# Made in collaboration again with the spectacular @sassycular bro
-
+# Made in collaboration again with the spectacular @sassycular bro, who originally owns the code.
 
 # Discord token for the bot is called packy because Stacky Packy is not Lacky ;)     - @sassycular
 
