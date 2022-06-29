@@ -1,6 +1,5 @@
 # This code also depicts how to run selenium bots on an online ide like repl
-# Personal note: @sassycular never shows up on time. Average time wasted daily on waiting: ~1.5hrs (based on a data of 4 days)
-# Is wasting 90 mintues a day worth it ?
+
 
 # Coded by Krypto-Kiddo for StrawHats DAO
 
